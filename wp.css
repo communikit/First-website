@@ -1,0 +1,42 @@
+h1 {
+color:black;
+text-align: center;
+background-color: gray;
+border:10px solid black;
+}
+#footer {
+background-color: gray;
+margin-top: 50px;
+border: 10px solid black;
+text-align: center;
+}
+#day1, #day2, #day3, #day4 {
+background-color:pink;
+border: solid gray;
+padding: 20px 15px;
+text-align: center;
+}
+ ul.nav {
+list-style-type:none;
+}
+ li.nav {
+display:inline;
+}
+.col1 {
+width:48%;
+float:left;
+display:inline;
+}
+.col2 {
+width:48%;
+float:left;
+display:inline;
+}
+.col3, .col4 {
+width:48%;
+float:left;
+display:inline;
+}
+#footer {
+clear:both;
+}
